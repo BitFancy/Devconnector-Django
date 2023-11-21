@@ -66,6 +66,4 @@ Server will be available at `http://127.0.0.1:8000` in your browser
 Don't Forget to whitelist your host origin using `django-cors-header` when using in production<br>
 [See Documentation](https://pypi.org/project/django-cors-headers/)
 
-#### Author
-
 ========Thank You !!!=========
